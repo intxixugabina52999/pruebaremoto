@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaaaa
+=======
+aaa
+>>>>>>> rama2
 
